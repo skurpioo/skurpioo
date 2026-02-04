@@ -1,4 +1,4 @@
-# 👋 Halo, Saya [Nama Kamu]
+# 👋 Halo, Saya **Valentino Echa**
 
 Saya seorang desainer **UI/UX** yang fokus menciptakan **antarmuka interaktif dan prototype menarik** menggunakan **Figma** sebagai dasar pengembangan aplikasi.  
 Keahlian saya meliputi **user-centered design**, **interactive prototyping**, dan membuat pengalaman digital yang intuitif dan menyenangkan bagi pengguna.
