@@ -17,7 +17,7 @@ Dengan **prototype interaktif**, saya dapat:
 ## 📁 Project Utama
 
 ### 1️⃣ Bus Tayo
-- Aplikasi **transportasi kampus UKSW** untuk mahasiswa dan civitas akademika
+- Aplikasi **transportasi kampus Universitas Diponegoro** untuk mahasiswa dan civitas akademika
 - Desain UI/UX yang **intuitif dan mudah dinavigasi**
 - Prototype Figma dibuat untuk **mengilustrasikan alur perjalanan pengguna**
 - [Lihat Preview & Prototype](https://github.com/skurpioo/aplikasi-bus-tayo)
