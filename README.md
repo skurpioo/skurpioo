@@ -16,7 +16,7 @@ Dengan **prototype interaktif**, saya dapat:
 
 ## 📁 Project Utama
 
-### 1️⃣ Bus Tayo
+### 1️⃣ Bus Undip
 - Aplikasi **transportasi kampus Universitas Diponegoro** untuk mahasiswa dan civitas akademika
 - Desain UI/UX yang **intuitif dan mudah dinavigasi**
 - Prototype Figma dibuat untuk **mengilustrasikan alur perjalanan pengguna**
