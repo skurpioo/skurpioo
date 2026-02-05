@@ -27,7 +27,7 @@ Dengan **prototype interaktif**, saya dapat:
 - Fokus pada **dashboard manajemen usaha dan pengelolaan data**
 - Prototype interaktif di Figma membantu menampilkan solusi digital yang praktis dan efisien
 - [Lihat Preview & Prototype](https://github.com/skurpioo/aplikasi-brico)
-- 
+
 ### 3️⃣Aplikasi Kesehatan
 - Fokus pada **manajemen kesehatan dan informasi medis**
 - Membuat UI/UX yang **sederhana, jelas, dan ramah pengguna**
