@@ -16,23 +16,25 @@ Dengan **prototype interaktif**, saya dapat:
 
 ## 📁 Project Utama
 
-### 1️⃣ Aplikasi Kesehatan
-- Fokus pada **manajemen kesehatan dan informasi medis**
-- Membuat UI/UX yang **sederhana, jelas, dan ramah pengguna**
-- Prototype interaktif di Figma sebagai dasar pengembangan aplikasi mobile
-- [Lihat Preview & Prototype](https://github.com/skurpioo/aplikasi-kesehatan) 
-
-### 2️⃣ Bus Tayo
+### 1️⃣ Bus Tayo
 - Aplikasi **transportasi kampus UKSW** untuk mahasiswa dan civitas akademika
 - Desain UI/UX yang **intuitif dan mudah dinavigasi**
 - Prototype Figma dibuat untuk **mengilustrasikan alur perjalanan pengguna**
 - [Lihat Preview & Prototype](https://github.com/skurpioo/aplikasi-bus-tayo)
 
-### 3️⃣ Brico
+### 2️⃣ Brico
 - Aplikasi **bisnis briket arang** sebagai proyek Wirausaha Merdeka 2024
 - Fokus pada **dashboard manajemen usaha dan pengelolaan data**
 - Prototype interaktif di Figma membantu menampilkan solusi digital yang praktis dan efisien
 - [Lihat Preview & Prototype](https://github.com/skurpioo/aplikasi-brico)
+- 
+### 3️⃣Aplikasi Kesehatan
+- Fokus pada **manajemen kesehatan dan informasi medis**
+- Membuat UI/UX yang **sederhana, jelas, dan ramah pengguna**
+- Prototype interaktif di Figma sebagai dasar pengembangan aplikasi mobile
+- [Lihat Preview & Prototype](https://github.com/skurpioo/aplikasi-kesehatan) 
+
+
 
 ---
 
